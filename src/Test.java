@@ -8,6 +8,7 @@ public class Test {
         computer.processor.timingUp();
         computer.processor.timingUp();
         computer.processor.timingUp();
+        computer.processor.timingUp();
         System.out.println(computer.toString());
 
     }
